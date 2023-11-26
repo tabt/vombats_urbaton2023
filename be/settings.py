@@ -1,0 +1,1 @@
+OBJECTS_TO_FIND = ["air conditioner", "graffity"]
